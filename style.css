@@ -1,0 +1,161 @@
+.row{
+    display: flex;
+    align-items: center;
+}
+#logo{
+    width: 50px;
+}
+.container{
+    margin-top: 5px;
+}
+#unorderlist{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 35px;
+}
+#navbar{
+    padding: .5rem;
+}
+
+#romimg{
+    width: 30rem;
+}
+h3 {
+    font-weight: normal;
+}
+
+h1 {
+    font-weight: bold;
+    margin: 20px 0;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #4B2A63 !important; 
+    border: none !important;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+.btn-primary:hover {
+    background-color: #3c214f !important;
+}
+
+.img-fluid {
+    width: 100%;
+    height: auto;
+}
+#centertext{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    height: 100px; 
+    text-align: center;
+    color: #3c214f;
+}
+.container img {
+    display: block;
+    margin: 0 auto; 
+    margin-bottom: 10px; 
+}
+.container p {
+    margin: 0; 
+    font-size: 16px; 
+    line-height: 1.5;
+}
+
+
+
+#bgimage {
+    background-image: url("image 16.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center; 
+    padding: 3rem; 
+    margin: 2rem 0rem;
+    
+}
+
+.whitepart {
+    background-color: rgba(255, 255, 255, 0.8); 
+    padding: 5rem;
+    border-radius: 3px; 
+    text-align: center;
+}
+
+.container {
+    max-width: 1200px; 
+    margin: 0 auto; 
+}
+
+#imageheading{
+    color: #4B2A63;
+    text-align: center;
+    padding: 5px;
+}
+
+#multiimage{
+  margin: 1rem;
+}
+
+#para{
+    text-align: center;
+    margin :  0rem 10rem;
+}
+
+#Blog{
+         color: #4B2A63;
+         margin:  1rem;
+}
+
+.button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 2rem 0rem;
+}
+
+
+#viewbtn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn-primary {
+    color: white;
+    background-color: #4B2A63 !important;
+    border: none !important;
+    padding: 10px 20px;
+    font-size: 16px;
+}
+
+
+#gridimage{
+   width: 14rem;
+}
+#paratext{
+    text-align: center;
+}
+
+.input{
+    border:none ;
+    outline :none;
+}
+.input:hover{
+    border: none;
+    outline: none;
+}
+
+.no-space{
+ margin: 0;
+ padding: 0;
+}
+.lastpart{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
