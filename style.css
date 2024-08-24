@@ -1,27 +1,32 @@
-.row{
+.row {
     display: flex;
     align-items: center;
 }
-#logo{
+
+#logo {
     width: 50px;
 }
-.container{
+
+.container {
     margin-top: 5px;
 }
-#unorderlist{
+
+#unorderlist {
     list-style: none;
     display: flex;
     align-items: center;
     justify-content: center;
     gap: 35px;
 }
-#navbar{
+
+#navbar {
     padding: .5rem;
 }
 
-#romimg{
+#romimg {
     width: 30rem;
 }
+
 h3 {
     font-weight: normal;
 }
@@ -33,7 +38,7 @@ h1 {
 
 .btn-primary {
     color: white;
-    background-color: #4B2A63 !important; 
+    background-color: #4B2A63 !important;
     border: none !important;
     padding: 10px 20px;
     font-size: 16px;
@@ -47,22 +52,25 @@ h1 {
     width: 100%;
     height: auto;
 }
-#centertext{
+
+#centertext {
     display: flex;
-    align-items: center; 
-    justify-content: center; 
-    height: 100px; 
+    align-items: center;
+    justify-content: center;
+    height: 100px;
     text-align: center;
     color: #3c214f;
 }
+
 .container img {
     display: block;
-    margin: 0 auto; 
-    margin-bottom: 10px; 
+    margin: 0 auto;
+    margin-bottom: 10px;
 }
+
 .container p {
-    margin: 0; 
-    font-size: 16px; 
+    margin: 0;
+    font-size: 16px;
     line-height: 1.5;
 }
 
@@ -72,42 +80,42 @@ h1 {
     background-image: url("image 16.png");
     background-repeat: no-repeat;
     background-size: cover;
-    background-position: center; 
-    padding: 3rem; 
+    background-position: center;
+    padding: 3rem;
     margin: 2rem 0rem;
-    
+
 }
 
 .whitepart {
-    background-color: rgba(255, 255, 255, 0.8); 
+    background-color: rgba(255, 255, 255, 0.8);
     padding: 5rem;
-    border-radius: 3px; 
+    border-radius: 3px;
     text-align: center;
 }
 
 .container {
-    max-width: 1200px; 
-    margin: 0 auto; 
+    max-width: 1200px;
+    margin: 0 auto;
 }
 
-#imageheading{
+#imageheading {
     color: #4B2A63;
     text-align: center;
     padding: 5px;
 }
 
-#multiimage{
-  margin: 1rem;
+#multiimage {
+    margin: 1rem;
 }
 
-#para{
+#para {
     text-align: center;
-    margin :  0rem 10rem;
+    margin: 0rem 10rem;
 }
 
-#Blog{
-         color: #4B2A63;
-         margin:  1rem;
+#Blog {
+    color: #4B2A63;
+    margin: 1rem;
 }
 
 .button-container {
@@ -133,29 +141,31 @@ h1 {
 }
 
 
-#gridimage{
-   width: 14rem;
+#gridimage {
+    width: 14rem;
 }
-#paratext{
+
+#paratext {
     text-align: center;
 }
 
-.input{
-    border:none ;
-    outline :none;
-}
-.input:hover{
+.input {
     border: none;
     outline: none;
 }
 
-.no-space{
- margin: 0;
- padding: 0;
+.input:hover {
+    border: none;
+    outline: none;
 }
-.lastpart{
+
+.no-space {
+    margin: 0;
+    padding: 0;
+}
+
+.lastpart {
     display: flex;
     align-items: center;
     justify-content: center;
 }
-
